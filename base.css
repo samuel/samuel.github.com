@@ -1,13 +1,14 @@
+/* @override http://samuelks.com/base.css */
+
 body {
 	margin-top: 1.0em;
-	background-color: #ffffff;
-	font-family: Helvetica, Arial;
-	font-size: 16px; 
+	background-color: #ffffff; 
 	color: #000000;
+	font: 16px Helvetica, Arial;
 }
 #container {
   margin: 0 auto;
-  width: 700px;
+  width: 750px;
 }
 h1 { font-size: 3.8em; color: #000000; margin-bottom: 3px; }
 h1 .small { font-size: 0.4em; }
