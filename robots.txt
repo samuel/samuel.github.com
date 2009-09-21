@@ -1,0 +1,3 @@
+Sitemap: http://samuelks.com/sitemap.xml
+User-Agent: *
+Allow: /
