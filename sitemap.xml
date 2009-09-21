@@ -6,4 +6,40 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>http://samuelks.com/python-scrubber/</loc>
+		<lastmod>2009-09-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://samuelks.com/python-scrubber/docs/</loc>
+		<lastmod>2009-09-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://samuelks.com/python-munin/</loc>
+		<lastmod>2009-09-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://samuelks.com/python-gearman/</loc>
+		<lastmod>2009-09-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://samuelks.com/python-gearman/docs/</loc>
+		<lastmod>2009-09-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://samuelks.com/lua-quadtree/</loc>
+		<lastmod>2009-09-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
